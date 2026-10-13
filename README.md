@@ -1,12 +1,8 @@
 # Hi, I'm Juan David Gutierrez
 
----
-
 ## About Me
 
 Systems Engineering student at Universidad del Valle, actively seeking professional internships. I have participated in academic and personal projects covering various areas of software engineering, including service integration, database management, web development, and Android applications. I am eager to join a development team where I can contribute to building versatile technological solutions, gain real-world experience, and continue expanding my technical skills.
-
----
 
 ## Technologies & Tools
 
@@ -32,14 +28,12 @@ Systems Engineering student at Universidad del Valle, actively seeking professio
 ### Tools, IDEs & Design
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="filter: invert(1);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
-
----
 
 ## Contact
 
